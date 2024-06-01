@@ -1,0 +1,84 @@
+.img {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.about {
+    display: flex;
+}
+.me {
+    background-color: rgba(217, 40, 199, 0.579);
+    height: 290px;
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 18px;
+    color: white;
+    font-weight:500;
+    align-content: center;
+}
+.ab {
+    display: flex;
+}
+.sec {
+    background-color: rgba(217, 40, 199, 0.579);
+    height: 330px;
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 18px;
+    color: white;
+    font-weight:500;
+    align-content: center;
+}
+.hm {
+    display: flex;
+}
+.skill {
+    background-color: rgba(217, 40, 199, 0.579);
+    height: 330px;
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 18px;
+    color: white;
+    font-weight:500;
+    align-content: center;
+}
+.hmm {
+    display: flex;
+}
+.hobb {
+    background-color: rgba(217, 40, 199, 0.579);
+    height: 330px;
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 18px;
+    color: white;
+    font-weight:500;
+    align-content: center;
+}

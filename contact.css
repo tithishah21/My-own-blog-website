@@ -1,0 +1,17 @@
+
+.contact {
+    justify-content: center;
+    background-color: rgba(217, 40, 199, 0.579);
+    height: 400px;
+    margin-top: 170px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 30px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 18px;
+    color: white;
+    font-weight:800;
+}
